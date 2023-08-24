@@ -15,7 +15,7 @@ Correlation and Regression
 
 ## About
 
-This dataset analyzes the 249 (1 duplicate value = 248 Mouse ID, and 
+This dataset analyzes the 249 (1 duplicate value = 248 Mouse ID)
 
 
 ## Installing
@@ -30,4 +30,4 @@ This dataset analyzes the 249 (1 duplicate value = 248 Mouse ID, and
 ## Contributing
 ARUN BALARAM
 ASK BCS - Bigyan 
-DV TUTOR SESSION 
+DV TUTOR SESSION - Kyle Goode 
